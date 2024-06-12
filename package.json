@@ -1,0 +1,19 @@
+{
+  "name": "srt2json",
+  "version": "1.0.0",
+  "description": "Convert the main information in the standard srt format text to json.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "xwvike",
+  "scripts": {
+    "build": "rollup -c",
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xwvike/srt2json"
+  },
+  "license": "ISC",
+  "devDependencies": {
+  }
+}
