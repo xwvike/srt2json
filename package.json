@@ -1,5 +1,5 @@
 {
-  "name": "srt2json",
+  "name": "srt-to-json",
   "version": "1.0.0",
   "description": "Convert the main information in the standard srt format text to json.",
   "main": "index.js",
