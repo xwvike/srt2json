@@ -76,3 +76,6 @@ function srt2json(
     return srt;
 }
 if (typeof module !== "undefined") module.exports = srt2json;
+if (typeof global !== "undefined") global.srt2json = srt2json;
+if (typeof self !== "undefined") self.srt2json = srt2json;
+if (typeof window !== "undefined") window.srt2json = srt2json;
